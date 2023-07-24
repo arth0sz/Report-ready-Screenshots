@@ -20,11 +20,11 @@ The script will iterate over the provided folder, create a new edited-images fol
 
 It will skip any files that have already been converted.
 
-![[Pasted image 20230724151224.png]]
+![Screenshot1](/20230724151224.png?raw=true)
 
 After deleting some of the files from the edited-images folder.
 
-![[Pasted image 20230724151240.png]]
+![Screenshot2](/20230724151240.png?raw=true)
 
 ## Examples
 
@@ -32,19 +32,31 @@ All of the examples are from Kali Linux here.
 
 ### WhiteOnBlack
 
-![[WhiteOnBlack-scheme.png]]
+Original:
 
-![[WhiteOnBlack-scheme_edited.png]]
+![WhiteOnBlack](/examples/WhiteOnBlack-scheme.png?raw=true)
+
+Converted:
+
+![WhiteOnBlack-edited](/examples/edited-images/WhiteOnBlack-scheme_edited.png?raw=true)
 
 ### GreenOnBlack
 
-![[GreenOnBlack-scheme.png]]
-![[GreenOnBlack-scheme_edited.png]]
-![GreenOnBlack](\examples\edited-images\GreenOnBlack-scheme_edited.png?raw=true)
+Original:
 
+![GreenOnBlack](/examples/GreenOnBlack-scheme.png?raw=true)
+
+Converted:
+
+![GreenOnBlack-edited](/examples/edited-images/GreenOnBlack-scheme_edited.png?raw=true)
 
 ### Kali-Dark
 
-![[Kali-Dark-sceme.png]]
+Original:
 
-![[Kali-Dark-sceme_edited.png]]
+![Kali-dark-sceme](/examples/Kali-Dark-sceme.png?raw=true)
+
+Converted:
+
+![Kali-Dark-edited](/examples/edited-images/Kali-Dark-sceme_edited.png?raw=true)
+

@@ -20,11 +20,11 @@ The script will iterate over the provided folder, create a new edited-images fol
 
 It will skip any files that have already been converted.
 
-![Screenshot1](/20230724151224.png?raw=true)
+![Screenshot1](/read-me-screenshots/20230724151224.png?raw=true)
 
 After deleting some of the files from the edited-images folder.
 
-![Screenshot2](/20230724151240.png?raw=true)
+![Screenshot2](/read-me-screenshots/20230724151240.png?raw=true)
 
 ## Examples
 

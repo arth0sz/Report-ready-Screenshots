@@ -3,6 +3,9 @@
 
 A simple bash script to convert your dark mode screenshots and add a black border around them, so you can happily paste them into your report. It utilises the open-source ImageMagick software suite. You can download the precompiled magick binary from [here](https://imagemagick.org/script/download.php)
 
+Additionally, if you have screenshots that are in light mode, you can separate them out and use the light mode script instead to only add a black border to the screenshots.
+
+
 ## Usage
 
 Download the script and the magick binary to the same folder, make them both executable with `chmod +x` and run the script from there.
@@ -54,9 +57,9 @@ Converted:
 
 Original:
 
-![Kali-dark-sceme](/examples/Kali-Dark-sceme.png?raw=true)
+![Kali-dark-scheme](/examples/Kali-Dark-scheme.png?raw=true)
 
 Converted:
 
-![Kali-Dark-edited](/examples/edited-images/Kali-Dark-sceme_edited.png?raw=true)
+![Kali-Dark-edited](/examples/edited-images/Kali-Dark-scheme_edited.png?raw=true)
 

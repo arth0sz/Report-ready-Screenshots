@@ -2,7 +2,7 @@
 
 # Check if the folder path is provided as a command-line argument
 if [ $# -eq 0 ]; then
-	echo "Usage: ./report-ready-light-mode.sh /path/to/screenshots/folder"
+	echo "Usage: ./report-ready-light-mode.sh /path/to/folder"
 	echo "Please provide the folder path as a command-line argument."
 	exit 1
 fi
@@ -44,7 +44,7 @@ do
 			echo "[*] Skipping '$filename' as it was already edited."
         	else
             		# keep your magick binary and script in the same folder
-			./magick convert "$file" -border 0.5%x1% "$new_folder/$modified_filename"
+			./magick convert "$file" -bordercolor black -border 0.5%x1% "$new_folder/$modified_filename"
 			echo "[*] Adding black border to '$filename'..."
         	fi
 	fi

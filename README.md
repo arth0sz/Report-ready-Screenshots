@@ -5,6 +5,7 @@ A simple bash script to convert your dark mode screenshots and add a black borde
 
 Additionally, if you have screenshots that are in light mode, you can separate them out and use the light mode script instead to only add a black border to the screenshots.
 
+I personally used these scripts to prepare my screenshots for the PNPT report, saved a lot of time and was one less thing to think about.
 
 ## Usage
 
